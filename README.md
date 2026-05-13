@@ -19,11 +19,7 @@ Sou um Desenvolvedor de Software e Engenheiro Backend localizado em São Paulo, 
 ### 📈 Meus Status do GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkbaza&layout=compact&langs_count=7&theme=radical&cache_seconds=86400)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunkbaza&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 📫 Como me encontrar
