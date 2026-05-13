@@ -19,20 +19,15 @@ Sou um Desenvolvedor de Software e Engenheiro Backend localizado em São Paulo, 
 ### 📈 Meus Status do GitHub
 
 <div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="https://github-readme```
-
-### Dicas para personalizar ainda mais:
-1. **Links:** Não se esqueça de substituir o-stats.vercel.app/api/top-langs/?username=yunkbaza&layout=compact&langs_count=7&theme=radical"/> `[Adicione o link do seu LinkedIn aqui](#)` pelo endereço real do seu perfil no LinkedIn.
-2. **Repositórios Pinados:** No
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunkbaza&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </div>
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [Coloque o link do seu LinkedIn aqui](https://www.linkedin.com/in/allan-gabriel-baeza-a281b1233/)
-- **Porfólio:** [Coloque o link do seu Portfolio aqui](https://portfolio-henna-pi-77.vercel.app/)
-- **E-mail:** [Coloque seu e-mail aqui](mailto:allanbamirati@live.com)
+- **LinkedIn:** [Allan Gabriel Baeza](https://www.linkedin.com/in/allan-gabriel-baeza-a281b1233/)
+- **Portfólio:** [Meu Portfólio](https://portfolio-henna-pi-77.vercel.app/)
+- **E-mail:** [allanbamirati@live.com](mailto:allanbamirati@live.com)
 
 ---
-⭐️ *De**, para que os recrutadores vejam o código logo de cara.
-3. **Ícones:** Se quiser deixar as tecnologias mais visuais, você podeixe uma estrela nos meus projetos se você achá-los úteis!*
+⭐️ *Deixe uma estrela nos meus projetos se você achá-los úteis!*
