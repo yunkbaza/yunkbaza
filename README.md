@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou o Allan Baeza 👋
 
-<!--
-**yunkbaza/yunkbaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Desenvolvedor de Software e Engenheiro Backend localizado em São Paulo, SP, apaixonado por construir arquiteturas escaláveis, APIs eficientes e resolver problemas complexos.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Trabalho diariamente no desenvolvimento de sistemas backend robustos, incluindo aplicações financeiras e arquiteturas orientadas a eventos.
+- ⚙️ Tenho experiência na construção de integrações complexas de API (como soluções para e-commerce e dropshipping no projeto CarefulBaza) e já atuei prestando consultorias de TI.
+- 🌍 Buscando sempre criar soluções de alto impacto, com foco na performance e qualidade do código.
+- 💬 Pergunte-me sobre **Node.js, Java, Spring Boot, arquitetura de software ou Docker**.
+
+### 🛠️ Minhas Habilidades (Tech Stack)
+
+* **Linguagens:** Java, JavaScript / TypeScript
+* **Frameworks & Tecnologias:** Node.js, Spring Boot, Prisma ORM
+* **Bancos de Dados:** PostgreSQL
+* **Infraestrutura & Ferramentas:** Docker, WSL 2, Git
+
+### 📈 Meus Status do GitHub
+
+<div align="center">
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme```
+
+### Dicas para personalizar ainda mais:
+1. **Links:** Não se esqueça de substituir o-stats.vercel.app/api/top-langs/?username=yunkbaza&layout=compact&langs_count=7&theme=radical"/> `[Adicione o link do seu LinkedIn aqui](#)` pelo endereço real do seu perfil no LinkedIn.
+2. **Repositórios Pinados:** No
+</div>
+
+### 📫 Como me encontrar
+
+- **LinkedIn:** [Coloque o link do seu LinkedIn aqui](https://www.linkedin.com/in/allan-gabriel-baeza-a281b1233/)
+- **Porfólio:** [Coloque o link do seu Portfolio aqui](https://portfolio-henna-pi-77.vercel.app/)
+- **E-mail:** [Coloque seu e-mail aqui](mailto:allanbamirati@live.com)
+
+---
+⭐️ *De**, para que os recrutadores vejam o código logo de cara.
+3. **Ícones:** Se quiser deixar as tecnologias mais visuais, você podeixe uma estrela nos meus projetos se você achá-los úteis!*
