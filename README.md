@@ -18,10 +18,12 @@ Sou um Desenvolvedor de Software e Engenheiro Backend localizado em São Paulo, 
 
 ### 📈 Meus Status do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunkbaza&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
-</div>
+### 📈 Meus Status do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yunkbaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunkbaza&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
+</p>
 
 ### 📫 Como me encontrar
 
